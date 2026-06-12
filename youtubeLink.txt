@@ -3,4 +3,6 @@
 ## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
 ## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 
-Caze TV || UCZiYbVptd3PVPf4f6eR6UaQ || Cazetv || https://www.youtube.com/@CazeTV
+## Caze TV || UCZiYbVptd3PVPf4f6eR6UaQ || Cazetv || https://www.youtube.com/@CazeTV
+
+Caze TV || caze-tv.yt || Cazetv || https://www.youtube.com/@CazeTV
