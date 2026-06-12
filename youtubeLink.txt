@@ -5,4 +5,6 @@
 
 ## Caze TV || UCZiYbVptd3PVPf4f6eR6UaQ || Cazetv || https://www.youtube.com/@CazeTV
 
+git push origin main --force
+
 Caze TV || caze-tv.yt || Cazetv || https://www.youtube.com/@CazeTV
